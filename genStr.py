@@ -159,13 +159,13 @@ Must Join Channel for Bot Updates!
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('♥ More Amazing Bots ♥', url='https://t.me/HogwartsBots)
+                InlineKeyboardButton('♥ More Amazing Bots ♥', url='https://t.me/HogwartsBots'),
             ],
-            [              
-                InlineKeyboardButton('🎨 Bot Creator 🎨', url='https://t.me/HarryPotterHere)
+            [ 
+                InlineKeyboardButton('🎨 Bot Creator 🎨', url='https://t.me/HarryPotterHere'),
             ],
             [
-                InlineKeyboardButton('💯 Source Code 💯', url='https://github.com/HogwartsBots/StringSessionBot),
+                InlineKeyboardButton('💯 Source Code 💯', url='https://github.com/HogwartsBots/StringSessionBot'),
             ]
         ]
     )
